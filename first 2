@@ -1,0 +1,9 @@
+let myName 
+
+console.log(myName)
+
+myName = "Kirill"
+
+console.log(myName)
+
+console.log(console.log(10))
